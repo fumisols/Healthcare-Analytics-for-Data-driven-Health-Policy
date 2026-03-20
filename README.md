@@ -1,2 +1,239 @@
 # Healthcare-Analytics-for-Data-driven-Health-Policy
 The project's aim was to analyze &amp; visualize healthcare data to get insights that could support the government in making informed health policies for citizens.  The solution focused on transforming raw data into a clear, interactive dashboard that highlights trends in patient demographics, disease patterns, hospital performance, and healthcare use.
+
+Project Overview
+
+This project presents an interactive Healthcare Analytics Dashboard built using Power BI to analyze patient records across hospitals, doctors, and healthcare services.
+
+The dashboard enables stakeholders to:
+
+Understand patient distribution and demographics
+
+Identify high-burden medical conditions
+
+Monitor hospital and doctor performance
+
+Track admission trends over time
+
+Evaluate billing and healthcare costs
+
+Problem Statement
+
+Healthcare data exists across multiple variables such as patients, hospitals, doctors, and treatments. However, decision-makers often lack a centralized system to answer key policy questions:
+
+What are the most common health conditions affecting citizens?
+
+Which hospitals and doctors are handling the highest patient load?
+
+How do admissions change over time?
+
+What demographic groups require more healthcare attention?
+
+How does healthcare cost vary across patients and services?
+
+Without proper visualization, it becomes difficult to identify trends, allocate resources efficiently, and design effective health policies.
+
+Dataset Description
+
+The dataset contains patient-level healthcare records with the following key fields:
+
+Demographics: Name, Age, Gender, Blood Type
+
+Medical Information: Medical Condition, Medication, Test Results
+
+Hospital Data: Hospital, Doctor, Room Number
+
+Admission Details: Admission Type, Date of Admission, Discharge Date
+
+Financial Data: Billing Amount, Insurance Provider
+
+Methodology
+1. Data Cleaning
+
+Removed inconsistencies and duplicates
+
+Standardized categorical values (e.g., gender, admission type)
+
+Ensured correct data types (dates, numerical fields)
+
+Handled missing or invalid records
+
+Verified billing and date accuracy
+
+2. Data Transformation
+
+Created calculated fields:
+
+Length of Stay = Discharge Date – Admission Date
+
+Age Groups (Gen Z, Millennials, Gen X, Boomers)
+
+Aggregated metrics for reporting:
+
+Total patients
+
+Total billing
+
+Average billing
+
+Patient distribution metrics
+
+3. Data Modeling
+
+The dataset was structured into key analytical dimensions:
+
+Patient Dimension: Gender, Age Group, Blood Type
+
+Medical Dimension: Medical Conditions
+
+Provider Dimension: Doctors and Hospitals
+
+Financial Dimension: Billing Amount, Insurance Providers
+
+Time Dimension: Admission Year
+
+This enabled flexible filtering and cross-analysis.
+
+4. Dashboard Development
+
+The dashboard was developed using Power BI with:
+
+KPI Cards for key metrics
+
+Bar Charts for comparisons (Doctors, Hospitals, Age Groups)
+
+Pie/Donut Charts for distributions
+
+Line Charts for trends
+
+Slicers for interactive filtering
+
+The design prioritizes clarity, usability, and insight discovery.
+
+Key Performance Indicators (KPIs)
+
+Total Patients
+
+Total Billing Amount
+
+Total Doctors
+
+Average Billing Amount
+
+Average Length of Stay
+
+Top 5 Doctors by Patient Volume
+
+Top 5 Hospitals by Patient Volume
+
+Patients by Gender
+
+Patients by Age Group
+
+Patients by Blood Type
+
+Patients by Medical Condition
+
+Patients by Admission Type
+
+Patients by Insurance Provider
+
+Yearly Admission Trend
+
+Key Insights
+1. Patient Demographics
+
+Gender distribution is nearly balanced
+
+Majority of patients fall within Gen X and Millennials, indicating high healthcare demand in working-age populations
+
+2. Disease Burden
+
+High prevalence of Hypertension, Diabetes, and Cancer
+
+Suggests increasing burden of chronic, non-communicable diseases
+
+3. Admission Patterns
+
+Mix of Emergency, Urgent, and Elective admissions
+
+Indicates both reactive and planned healthcare usage
+
+4. Hospital & Doctor Utilization
+
+A small number of hospitals and doctors handle the highest patient volumes
+
+Highlights resource concentration and potential overload
+
+5. Financial Insights
+
+High total billing indicates significant healthcare cost burden
+
+Insurance providers play a key role in access to care
+
+6. Trend Analysis
+
+Admission trends fluctuate over time, showing changes in healthcare demand
+
+Impact
+
+This dashboard provides a data-driven foundation for policy and decision-making, enabling stakeholders to:
+
+Identify priority health issues
+
+Allocate healthcare resources effectively
+
+Improve hospital and workforce planning
+
+Monitor healthcare trends over time
+
+Support evidence-based health policy development
+
+Recommendations
+1. Prioritize Chronic Disease Management
+
+Government should invest in:
+
+preventive healthcare programs
+
+early diagnosis initiatives
+
+public awareness campaigns
+
+2. Improve Healthcare Resource Allocation
+
+Deploy more doctors and infrastructure to high-demand hospitals
+
+Balance workload across facilities
+
+3. Strengthen Preventive Healthcare
+
+Promote routine health screenings
+
+Encourage healthier lifestyles
+
+Reduce long-term healthcare costs
+
+4. Enhance Data-Driven Policy Making
+
+Use dashboards for continuous monitoring
+
+Integrate real-time healthcare data systems
+
+5. Optimize Insurance Coverage
+
+Improve access to affordable healthcare
+
+Strengthen partnerships with insurance providers
+
+Tools Used
+
+Power BI – Data Visualization & Dashboarding
+
+Microsoft Excel – Data Cleaning & Preparation
+
+Data Modeling & Transformation
+
+Healthcare Data Analysis
+
+Data Storytelling & Insights Communication
