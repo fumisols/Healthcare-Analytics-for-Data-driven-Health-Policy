@@ -1,4 +1,4 @@
-# Healthcare-Analytics-for-Data-driven-Health-Policy
+# Healthcare Analytics for Health Policy
 The project's aim was to analyze & visualize healthcare data to get insights that could support the government in making informed health policies for citizens.  The solution focused on transforming raw data into a clear, interactive dashboard that highlights trends in patient demographics, disease patterns, hospital performance, and healthcare use.
 
 **Project Overview**
