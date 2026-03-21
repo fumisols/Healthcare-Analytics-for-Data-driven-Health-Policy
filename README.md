@@ -24,6 +24,7 @@ How does healthcare cost vary across patients and services?
 Without proper visualization, it becomes difficult to identify trends, allocate resources efficiently, and design effective health policies, this project solves this problem.
 
 **Dataset Description**
+
 The dataset contained patient-level healthcare records with the following key fields:
 Demographics: Name, Age, Gender, Blood Type
 Medical Information: Medical Condition, Medication, Test Results
