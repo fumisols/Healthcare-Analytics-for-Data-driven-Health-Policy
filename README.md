@@ -1,5 +1,5 @@
 # Healthcare-Analytics-for-Data-driven-Health-Policy
-The project's aim was to analyze &amp; visualize healthcare data to get insights that could support the government in making informed health policies for citizens.  The solution focused on transforming raw data into a clear, interactive dashboard that highlights trends in patient demographics, disease patterns, hospital performance, and healthcare use.
+The project's aim was to analyze & visualize healthcare data to get insights that could support the government in making informed health policies for citizens.  The solution focused on transforming raw data into a clear, interactive dashboard that highlights trends in patient demographics, disease patterns, hospital performance, and healthcare use.
 
 **Project Overview**
 
@@ -32,21 +32,18 @@ Admission Details: Admission Type, Date of Admission, Discharge Date
 Financial Data: Billing Amount, Insurance Provider
 
 **Methodology**
-1. Data Cleaning
-I removed inconsistencies and duplicates, standardized categorical values (e.g., gender, admission type), ensured correct data types (dates, numerical fields), handled missing or invalid records and verified billing and date accuracy
+1. Data Cleaning: I removed inconsistencies and duplicates, standardized categorical values (e.g., gender, admission type), ensured correct data types (dates, numerical fields), handled missing or invalid records and verified billing and date accuracy
 
-2. Data Transformation
-I created calculated fields to calculate the Length of Stay = Discharge Date – Admission Date, categorised the Age Groups (Gen Z, Millennials, Gen X, Boomers) and Aggregated metrics for reporting Total patients, Total billing, Average billing and Patient distribution metrics
+2. Data Transformation: I created calculated fields to calculate the Length of Stay = Discharge Date – Admission Date, categorised the Age Groups (Gen Z, Millennials, Gen X, Boomers) and Aggregated metrics for reporting Total patients, Total billing, Average billing and Patient distribution metrics
 
-3. Data Modeling
-I structured the dataset into key analytical dimensions to help enable flexible filtering and cross-analysis:
+3. Data Modeling: I structured the dataset into key analytical dimensions to help enable flexible filtering and cross-analysis:
 Patient Dimension: Gender, Age Group, Blood Type
 Medical Dimension: Medical Conditions
 Provider Dimension: Doctors and Hospitals
 Financial Dimension: Billing Amount, Insurance Providers
 Time Dimension: Admission Year
 
-4. Dashboard Development
+5. Dashboard Development
 The dashboard was developed using Power BI with:
 KPI Cards for key metrics
 Bar Charts for comparisons (Doctors, Hospitals, Age Groups)
