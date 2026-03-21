@@ -106,6 +106,9 @@ This dashboard provides a data-driven foundation for policy and decision-making,
 
 **Tools Used**
 Power BI – Data Visualization & Dashboarding
+
 Microsoft Excel – Data Cleaning & Preparation
+
 Data Modeling & Transformation
+
 Data Analysis, Storytelling & Insights Communication
