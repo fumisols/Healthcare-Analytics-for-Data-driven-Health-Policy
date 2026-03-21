@@ -101,28 +101,14 @@ This dashboard provides a data-driven foundation for policy and decision-making,
 
 2. Improve Healthcare Resource Allocation by deploying more doctors and infrastructure to high-demand hospitals to balance workload across facilities.
 
-3. Strengthen Preventive Healthcare by promoting routine health screenings, encourage healthier lifestyles and reduce long-term healthcare costs
+3. Strengthen Preventive Healthcare by promoting routine health screenings, encourage healthier lifestyles and reduce long-term healthcare costs to reduce the rate of hypertension and obesity.
 
-4. Enhance Data-Driven Policy Making
+4. Enhance Data-Driven Policy Making: Use dashboards for continuous monitoring and integrate real-time healthcare data systems
 
-Use dashboards for continuous monitoring
+5. Optimize Insurance Coverage: Improve access to affordable healthcare by strengthening the partnerships with insurance providers
 
-Integrate real-time healthcare data systems
-
-5. Optimize Insurance Coverage
-
-Improve access to affordable healthcare
-
-Strengthen partnerships with insurance providers
-
-Tools Used
-
+**Tools Used**
 Power BI – Data Visualization & Dashboarding
-
 Microsoft Excel – Data Cleaning & Preparation
-
 Data Modeling & Transformation
-
-Healthcare Data Analysis
-
-Data Storytelling & Insights Communication
+Data Analysis, Storytelling & Insights Communication
