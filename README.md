@@ -55,21 +55,35 @@ The design prioritizes clarity, usability, and insight discovery.
 
 **Key Performance Indicators (KPIs)**
 Total Patients
+
 Total Billing Amount
+
 Total Doctors
+
 Average Billing Amount
+
 Average Length of Stay
+
 Top 5 Doctors by Patient Volume
+
 Top 5 Hospitals by Patient Volume
+
 Patients by Gender
+
 Patients by Age Group
+
 Patients by Blood Type
+
 Patients by Medical Condition
+
 Patients by Admission Type
+
 Patients by Insurance Provider
+
 Yearly Admission Trend
 
 **Key Insights**
+
 1. Patient Demographics
 Gender distribution is nearly balanced as we have almost as many males as females.
 Majority of patients fall within Gen X and Millennials, indicating high healthcare demand in working-age populations
@@ -94,6 +108,7 @@ Admission trends fluctuated over time, showing changes in healthcare demand
 This dashboard provides a data-driven foundation for policy and decision-making, enabling stakeholders to identify priority health issues, allocate healthcare resources effectively, improve hospital and workforce planning, monitor healthcare trends over time and support evidence-based health policy development.
 
 **Recommendations**
+
 1. Prioritize Chronic Disease Management: The Government should invest in preventive healthcare programs, early diagnosis initiatives and public awareness campaigns.
 
 2. Improve Healthcare Resource Allocation by deploying more doctors and infrastructure to high-demand hospitals to balance workload across facilities.
@@ -105,6 +120,7 @@ This dashboard provides a data-driven foundation for policy and decision-making,
 5. Optimize Insurance Coverage: Improve access to affordable healthcare by strengthening the partnerships with insurance providers
 
 **Tools Used**
+
 Power BI – Data Visualization & Dashboarding
 
 Microsoft Excel – Data Cleaning & Preparation
